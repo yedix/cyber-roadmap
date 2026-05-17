@@ -1,0 +1,16 @@
+{
+  "name": "CyberPath Pro",
+  "short_name": "CyberPath",
+  "description": "Cybersecurity Career Roadmap + Interactive Labs · Global 2026",
+  "start_url": "/cyberpath-pro/",
+  "scope": "/cyberpath-pro/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030811",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {"src": "logo.svg","sizes": "any","type": "image/svg+xml","purpose": "any maskable"}
+  ],
+  "categories": ["education","productivity"],
+  "lang": "en"
+}
